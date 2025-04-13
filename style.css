@@ -81,3 +81,18 @@
 .dot-active{
     background-color:rgb(134, 16, 95);
 }
+@media screen and (max-width:760px){
+    .project-title{
+        font-size:4vw;
+
+    }
+    .dot:hover{
+        background-color: rgb(8, 116, 143);
+    }
+    .dot-active{
+        background-color: rgb(8, 116, 143);
+    }
+    
+    
+    
+}
